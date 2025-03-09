@@ -129,4 +129,4 @@ Este tutorial está licenciado bajo la [Creative Commons Attribution-ShareAlike 
 
 **Autor:** [Munchi](https://github.com/MunchiA).  
 
-Si usas este trabajo, por favor da crédito adecuado, enlaza a la licencia, e indica si se realizaron cambios. Cualquier obra derivada debe di****
+Si usas este trabajo, por favor da crédito adecuado, enlaza a la licencia, e indica si se realizaron cambios. Cualquier obra derivada debe distribuirse bajo la misma licencia.
